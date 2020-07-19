@@ -1,5 +1,4 @@
 import React from 'react';
-import style from '../style';
 
 export default function TableHeader(props){
     if(props.config.show_length_menu == true 
